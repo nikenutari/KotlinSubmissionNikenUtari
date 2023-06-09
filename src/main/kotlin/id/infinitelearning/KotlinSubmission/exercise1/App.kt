@@ -7,7 +7,7 @@ Lengkapi fungsi myProfile di bawah ini dengan membuat variabel dengan ketentuan 
 - Variable bertipe data string yang menyimpan nilai nama belakang Anda.
 - Variable bertipe data number yang menyimpan nilai umur Anda.
 - Variable bertipe data boolean yang menyimpan nilai status Anda (single atau tidak)
-- Dan cetak setiap variabel ke layar saat fungsi myProfile() di panggil
+- Dan cetak setiap variabel ke layar saat fungsi myProfile() dipanggil
  */
 fun myProfile() {
     val namadepan = "Niken"
